@@ -277,8 +277,6 @@ h6 {
   font-size: 14px;
   line-height: 30px;
 }
-.subheader {
-}
 
 p {
   margin: 0 0 30px 0;
@@ -482,10 +480,6 @@ li {
   line-height: 18px;
   margin-bottom: 12px;
 }
-ul.large li {
-}
-li p {
-}
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
@@ -621,9 +615,6 @@ dd {
 .pagination .inactive:hover {
   background-color: #e6e8eb;
   color: #a9adb2;
-}
-.pagination .prev,
-.pagination .next {
 }
 
 /*  5. Images  --------------------------------------------------------- */
